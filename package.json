@@ -1,6 +1,6 @@
 {
   "name": "beml-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Command line HTML post-processor",
   "main": "index.js",
   "bin": {
